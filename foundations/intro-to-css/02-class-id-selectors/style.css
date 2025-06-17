@@ -1,4 +1,16 @@
-#odd {
+.odd {
     background-color: pink;
-    font: Verdana, "Dejavu Sans", sans-serif;
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+
+#second {
+   color:blue;
+   font-size: 36px; 
+
+}
+
+#last {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700px;
 }
